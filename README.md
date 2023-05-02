@@ -8,3 +8,5 @@ This software is developed to generate electricity bill and to store the details
 
 Checkout !
 
+![image](https://user-images.githubusercontent.com/89939823/235576060-52e56ea0-a0dc-4e64-9768-6cf04380b213.png)
+![image](https://user-images.githubusercontent.com/89939823/235576064-b00eeef1-710e-4c5c-b4ed-225e8346c524.png)
